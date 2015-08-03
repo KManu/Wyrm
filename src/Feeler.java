@@ -140,7 +140,6 @@ public class Feeler {
 		folders.trimToSize();
 	}
 
-	
 	private String analyseFile(File file){
 		//Basically build a small report on the file
 		String desc= "Wyrm File Analysis Started on: "+file.getName()+"\n";
