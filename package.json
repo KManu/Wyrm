@@ -1,0 +1,25 @@
+{
+  "name": "wyrm",
+  "version": "1.0.0",
+  "description": "Tidy files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KManu/Wyrm.git"
+  },
+  "author": "Manu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KManu/Wyrm/issues"
+  },
+  "homepage": "https://github.com/KManu/Wyrm#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
